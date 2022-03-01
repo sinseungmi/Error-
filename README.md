@@ -13,4 +13,4 @@
 > -  프로젝트 우클릭 > gradle > refresh dependencies <br> <br>
 > #### :warning: Could Not Find or Load Main Class Error
 > - Run -> Run Configurations -> Main -> Main class Search -> Main Type 재매칭 
-> - ![Run Configurations](https://user-images.githubusercontent.com/76691954/156162447-e0197576-2863-476f-95aa-2d51defe3d23.png)
+> ![Run Configurations](https://user-images.githubusercontent.com/76691954/156162447-e0197576-2863-476f-95aa-2d51defe3d23.png)
